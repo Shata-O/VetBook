@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "996750242416",
+    "firebase_url": "https://finalone-2475a.firebaseio.com",
+    "project_id": "finalone-2475a",
+    "storage_bucket": "finalone-2475a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996750242416:android:9f17e328a263879d483ab5",
+        "android_client_info": {
+          "package_name": "com.example.finalone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "996750242416-pq0nvdo7rh44p64ivei1596uednr0t0p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEqM4x0k1gUNKV8CRsZtLH3EPTV3gnBUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "996750242416-pq0nvdo7rh44p64ivei1596uednr0t0p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
